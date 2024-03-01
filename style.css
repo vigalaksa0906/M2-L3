@@ -1,0 +1,17 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins&display=swap'); */
+
+/* Download font inter  */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap');
+
+
+body {
+    font-family: 'Poppins', sans-serif; /* keluarga font */
+    font-size: 11px; /* Ukuran font utama pada tag <p></p> */
+    background-color: #f0f0f0; /* Warna latar belakang laman web */
+    color: #333333; /* Warna teks */ 
+}
+h1 {
+    color: #5988FF; /* Warna tajuk (header)*/
+    font-size: 24px; /* Ukuran font tajuk (header) */
+    font-family:'Inter', sans-serif;; /* Keluarga font yang digunakan di tajuk (header) */
+}
